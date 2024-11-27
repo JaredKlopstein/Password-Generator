@@ -50,8 +50,11 @@ body {
 
 .password-container {
     width: 200px;
-    height: 40px;
+    height: 24px;
     background-color: #273549;
     border-radius: 6px;
     margin: 24px 0;
+    color: #55F991;
+    text-align: center;
+    padding: 8px;
 }
